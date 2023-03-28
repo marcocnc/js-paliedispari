@@ -10,6 +10,8 @@ Dichiariamo chi ha vinto.
 ### Logica
 1. Due prompt in cui si chiedono i due parametri all'utente;
 2. Creare una funzione che genera un numero random che va da 1 a 5;
+3. Si fa la somma;
+4. Con una funzione si stabilisce se la somma è pari o dispari e si dichiara il vincitore
 
 ## Palindromo
 Chiedere all’utente di inserire una parola
