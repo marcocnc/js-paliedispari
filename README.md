@@ -17,3 +17,9 @@ Dichiariamo chi ha vinto.
 Chiedere all’utente di inserire una parola
 Creare una funzione per capire se la parola inserita è palindroma
 ### Logica
+1. Prompt in cui si inserisce una parola;
+2. Funzione in cui la parola viene inserita in un array con split;
+3. Questo nuovo array verrà invertito con reverse;
+4. Infine si fa un join per trasformare questo reverse in una stringa;
+5. Ora che la funzione è completa viene richiamata a livello globale;
+6. Condizione che andrà a stabilire se la parola rovesciata è uguale alla parola che l'utente inserirà, stabilendo così se è palindroma o no.
